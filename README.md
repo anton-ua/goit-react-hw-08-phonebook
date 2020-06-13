@@ -1,11 +1,11 @@
-##Phonebook
+## Phonebook
 
 https://anton-ua.github.io/goit-react-hw-08-phonebook
 
 
 
 ----
-###Technology Stack
+### Technology Stack
 - React
 - Redux
 - React-Bootstrap
