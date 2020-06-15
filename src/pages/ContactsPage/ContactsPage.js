@@ -14,10 +14,10 @@ const ContactsPage = () => (
       </Col>
     </Row>
     <Row>
-      <Col md={5}>
+      <Col lg={5}>
         <AddContact />
       </Col>
-      <Col md="7">
+      <Col lg="7">
         <ContactsList />
       </Col>
     </Row>

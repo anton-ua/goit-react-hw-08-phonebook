@@ -10,7 +10,7 @@ import Dropdown from "react-bootstrap/Dropdown";
 import PropTypes from "prop-types";
 
 const Navigation = ({ user, authentificated, logout, openModal }) => (
-  <Navbar collapseOnSelect expand="md" bg="dark" variant="dark">
+  <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
     <Container>
       <Navbar.Brand>Phonebook App</Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
